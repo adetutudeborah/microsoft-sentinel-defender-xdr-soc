@@ -11,14 +11,14 @@ The objective is to establish the Sentinel environment and prepare the resources
 3. Configure the workspace by selecting the appropriate **Subscription**, **Resource Group**, **Workspace Name**, and **Region**.
 4. Review the configuration and select **Create** to deploy the workspace.
 
-![Workspace Setup](./images/01.JPG)
+![Workspace Setup](./images/01.jpg)
 
 ## Step 2: Add Microsoft Sentinel to the workspace.
 
 1. Navigate to the [Azure portal](https://portal.azure.com/) and open **Microsoft Sentinel**.
 2. Select the workspace created in Step 1, then click **Add** to enable Microsoft Sentinel on the workspace.
 
-![Sentinel Workspace](./images/02.JPG)
+![Sentinel Workspace](./images/02.jpg)
 
 ## Step 3: Access Microsoft Sentinel in the Defender portal
 
